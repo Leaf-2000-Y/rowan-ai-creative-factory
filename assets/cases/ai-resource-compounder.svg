@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img" aria-labelledby="t d">
+  <title id="t">AI 信息复利筛选器预览</title><desc id="d">四列资源分类与风险分数界面</desc>
+  <rect width="1280" height="800" fill="#071528"/><path d="M0 80h1280M0 240h1280M0 400h1280M0 560h1280M160 0v800M480 0v800M800 0v800M1120 0v800" stroke="#18344f"/>
+  <text x="70" y="110" fill="#58aaff" font-family="monospace" font-size="24">RESOURCE COMPOUNDER / LOCAL</text>
+  <text x="70" y="210" fill="#ecf5ff" font-family="Arial Black,sans-serif" font-size="72">信息不是库存</text>
+  <text x="70" y="290" fill="#ecf5ff" font-family="Arial Black,sans-serif" font-size="72">要变成下一步</text>
+  <g font-family="monospace" font-size="20"><text x="70" y="485" fill="#58aaff">立即使用  02</text><text x="390" y="485" fill="#f2c14e">需要核验  01</text><text x="710" y="485" fill="#9aa8b4">以后再看  01</text><text x="1030" y="485" fill="#ff6b5e">拒绝采用  01</text></g>
+  <g fill="none" stroke="#58aaff"><rect x="70" y="530" width="260" height="130"/><rect x="390" y="530" width="260" height="130"/><rect x="710" y="530" width="260" height="130"/><rect x="1030" y="530" width="180" height="130"/></g>
+</svg>
